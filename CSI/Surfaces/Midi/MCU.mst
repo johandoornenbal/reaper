@@ -243,7 +243,7 @@ Widget Stop
 WidgetEnd
 
 Widget Play
-	Press 90 5e 7f
+	Press 90 5e 7f 90 5e 00
 	FB_TwoState 90 5e 7f 90 5e 00
 WidgetEnd
 
@@ -457,35 +457,35 @@ Widget FaderTouch8
 WidgetEnd
 
 Widget RotaryPush1
-	Press 90 20 7f
+	Press 90 20 7f 90 20 00
 WidgetEnd
 
 Widget RotaryPush2
-	Press 90 21 7f
+	Press 90 21 7f 90 21 00
 WidgetEnd
 
 Widget RotaryPush3
-	Press 90 22 7f
+	Press 90 22 7f 90 22 00
 WidgetEnd
 
 Widget RotaryPush4
-	Press 90 23 7f
+	Press 90 23 7f 90 23 00
 WidgetEnd
 
 Widget RotaryPush5
-	Press 90 24 7f
+	Press 90 24 7f 90 24 00
 WidgetEnd
 
 Widget RotaryPush6
-	Press 90 25 7f
+	Press 90 25 7f 90 25 00
 WidgetEnd
 
 Widget RotaryPush7
-	Press 90 26 7f
+	Press 90 26 7f 90 26 00
 WidgetEnd
 
 Widget RotaryPush8
-	Press 90 27 7f
+	Press 90 27 7f 90 27 00
 WidgetEnd
 
 Widget Rotary1
@@ -569,42 +569,42 @@ Widget RecordArm8
 WidgetEnd
 
 Widget Solo1
-	Press 90 08 7f
+	Press 90 08 7f 90 08 00
 	FB_TwoState 90 08 7f 90 08 00
 WidgetEnd
 
 Widget Solo2
-	Press 90 09 7f
+	Press 90 09 7f 90 09 00
 	FB_TwoState 90 09 7f 90 09 00
 WidgetEnd
 
 Widget Solo3
-	Press 90 0a 7f
+	Press 90 0a 7f 90 0a 00
 	FB_TwoState 90 0a 7f 90 0a 00
 WidgetEnd
 
 Widget Solo4
-	Press 90 0b 7f
+	Press 90 0b 7f 90 0b 00
 	FB_TwoState 90 0b 7f 90 0b 00
 WidgetEnd
 
 Widget Solo5
-	Press 90 0c 7f
+	Press 90 0c 7f 90 0c 00
 	FB_TwoState 90 0c 7f 90 0c 00
 WidgetEnd
 
 Widget Solo6
-	Press 90 0d 7f
+	Press 90 0d 7f 90 0d 00
 	FB_TwoState 90 0d 7f 90 0d 00
 WidgetEnd
 
 Widget Solo7
-	Press 90 0e 7f
+	Press 90 0e 7f 90 0e 00
 	FB_TwoState 90 0e 7f 90 0e 00
 WidgetEnd
 
 Widget Solo8
-	Press 90 0f 7f
+	Press 90 0f 7f 90 0f 00
 	FB_TwoState 90 0f 7f 90 0f 00
 WidgetEnd
 

@@ -17,7 +17,7 @@ Zone Buttons
 	Rewind Rewind
 	FastForward FastForward
 	Stop Stop
-	Play Play
+	Press+Play Play
 	Record Record
 	F1 NextPage
 
@@ -66,10 +66,10 @@ Zone Channel|1-8
 	DisplayUpper|  TrackNameDisplay
 	DisplayLower|  TrackPanDisplay
 	TrackTouch+DisplayLower|  TrackVolumeDisplay
-	RotaryPush| GoZone PanWidth|
+	Press+RotaryPush| GoZone PanWidth|
 	Rotary| TrackPan 0
 	RecordArm|  TrackRecordArm
-	Solo|  TrackSolo
+	Press+Solo|  TrackSolo
 	Mute| TrackMute
 	Select|  TrackUniqueSelect
 	Shift+Select|  TrackRangeSelect
@@ -84,13 +84,13 @@ ZoneEnd
 Zone Pan|1-8
 	TrackNavigator
 	Rotary| TrackPan 0
-	RotaryPush| GoZone PanWidth|
+	Press+RotaryPush| GoZone PanWidth|
 ZoneEnd
 
 Zone PanWidth|1-8
 	TrackNavigator
 	Rotary| TrackPanWidth 1
-	RotaryPush| GoZone Pan|
+	Press+RotaryPush| GoZone Pan|
 ZoneEnd
 
 Zone Send|1-8
