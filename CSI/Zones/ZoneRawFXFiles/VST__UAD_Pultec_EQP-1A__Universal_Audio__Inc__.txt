@@ -1,0 +1,13 @@
+VST: UAD Pultec EQP-1A (Universal Audio, Inc.)
+Low Freq
+LF Boost
+LF Atten
+High Freq
+HF Boost
+HF Q
+HF Atten Freq
+HF Atten
+Enable
+Output
+Bypass
+Wet

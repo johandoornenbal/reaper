@@ -1,0 +1,56 @@
+Zone Home
+IncludedZones
+Buttons
+IncludedZonesEnd
+Press+Rewind Rewind
+Press+FastForward FastForward
+Press+Stop Stop
+Press+Play Play
+Press+Record Record
+	
+Press+Cycle CycleTimeline
+
+Press+TimeDisplay TimeDisplay
+	
+Press+Click Reaper 40364
+
+
+/	Press+SpotErase 
+Press+Send ToggleMapSends
+Press+Track ToggleMapFXMenu
+Press+Pan ToggleMapFX
+Press+EQ ToggleLearnMode
+/	Press+Plugin
+/	Press+Instrument
+
+
+
+ZoneEnd
+
+Zone Buttons
+Press+BankLeft TrackBank -24
+Press+BankRight TrackBank 24
+Press+ChannelLeft TrackBank -1
+Press+ChannelRight TrackBank 1
+
+Shift Shift
+Option Option
+Control Control
+Alt Alt
+ZoneEnd
+
+Zone Send|1-8
+SelectedTrackNavigator
+DisplayUpperD| TrackSendNameDisplay
+DisplayLowerD| TrackSendVolumeDisplay
+Press+RotaryPushD| TrackSendMute
+RotaryD| TrackSendVolume	
+ZoneEnd
+
+
+Zone FXMenu|1-8
+SelectedTrackNavigator
+DisplayUpperD| FXNameDisplay |
+Press+RotaryPushD| GoFXSlot |
+Shift+RotaryPushD| GoFXSlotBypass |
+ZoneEnd

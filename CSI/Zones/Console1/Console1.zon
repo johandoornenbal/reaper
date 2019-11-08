@@ -1,0 +1,34 @@
+Zone "Home"
+IncludedZones
+Dummy
+Dummy2
+IncludedZonesEnd
+OnTrackSelection GoZone "Channel"
+OnTrackSelection MapSelectedTrackFXToWidgets
+DisplayFX SetShowFXWindows
+Mode ToggleMapSelectedTrackFX
+Preset GoZone "Home"
+ChannelLeft TrackBank "-1"
+ChannelRight TrackBank "1"
+Shape ToggleLearnMode
+ZoneEnd
+
+Zone "Channel"
+SelectedTrackNavigator
+InputMeterLeft TrackOutputMeter "0"
+InputMeterRight TrackOutputMeter "1"
+OutputMeterLeft TrackOutputMeter "0"
+OutputMeterRight TrackOutputMeter "1"
+Volume TrackVolume
+Control+Volume TrackPanWidth "0"
+Shift+Volume TrackPan "0"
+Mute TrackMute
+Solo TrackSolo
+ZoneEnd
+
+Zone "Dummy"
+ZoneEnd
+
+Zone "Dummy2" "D9"
+ZoneEnd
+

@@ -1,0 +1,46 @@
+Zone Home
+	OnTrackSelection MapSelectedTrackSendsToWidgets
+	IncludedZones
+		LayerA_Buttons
+		LayerB_Buttons
+		Channel|1-8
+	IncludedZonesEnd
+ZoneEnd
+
+Zone LayerA_Buttons
+	LayerA_LowerButton1 TrackBank -8
+	LayerA_LowerButton2 TrackBank 8
+	LayerA_LowerButton3 Reaper 40172
+	LayerA_LowerButton4 Reaper 40173
+	LayerA_LowerButton5 CycleTimeline
+	LayerA_LowerButton6 Stop
+	LayerA_LowerButton7 Play
+	LayerA_LowerButton8 Record
+	LayerA_Fader MasterTrackVolume
+ZoneEnd
+
+Zone LayerB_Buttons
+	LayerB_Fader MasterTrackVolume
+ZoneEnd
+
+Zone Channel|1-8
+	TrackNavigator
+	LayerA_Rotary| TrackVolume
+	LayerA_UpperButton| TrackMute
+	LayerB_Rotary| TrackPan 0
+	LayerB_RotaryPush| GoZone PanWidth|
+	LayerB_UpperButton| TrackRecordArm
+	LayerB_LowerButton| TrackSolo
+ZoneEnd
+
+Zone Pan|1-8
+	TrackNavigator
+	LayerB_Rotary| TrackPan 0
+	LayerB_RotaryPush| GoZone PanWidth|
+ZoneEnd
+
+Zone PanWidth|1-8
+	TrackNavigator
+	LayerB_Rotary| TrackPanWidth 1
+	LayerB_RotaryPush| GoZone Pan|
+ZoneEnd

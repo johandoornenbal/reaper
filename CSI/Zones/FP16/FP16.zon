@@ -1,0 +1,93 @@
+Zone Home
+	OnTrackSelection MapSelectedTrackSendsToWidgets
+	IncludedZones
+		Buttons 
+		Channel|1-16
+	IncludedZonesEnd
+ZoneEnd
+
+Zone Buttons
+	Track ToggleMapSelectedTrackFXMenu
+	Send ToggleMapSelectedTrackSends
+	Pan ToggleMapSelectedTrackFX
+        ChannelLeft TrackBank -1
+	ChannelRight TrackBank 1
+	BankLeft TrackBank -16
+	BankRight TrackBank 16
+	Rewind Rewind
+	FastForward FastForward
+	Stop Stop
+	Play Play
+	Record Record
+	F1 NextPage
+
+	Read TrackAutoMode 1
+	Write TrackAutoMode 3
+	Trim TrackAutoMode 0
+	Touch TrackAutoMode 2
+	Latch TrackAutoMode 4
+	Group Reaper 42023
+
+	Shift+Read GlobalAutoMode 1
+	Shift+Write GlobalAutoMode 3
+	Shift+Trim GlobalAutoMode 0
+	Shift+Touch GlobalAutoMode 2
+	Shift+Latch GlobalAutoMode 4
+	Shift+Group Reaper 42024
+
+	Save Reaper 40026
+	Shift+Save Reaper 40022
+
+	Undo Reaper 40029
+	Shift+Undo Reaper 40030
+
+	Shift Shift
+	Option Option
+	Control Control
+	Alt Alt
+
+	Marker Reaper 40172
+	Shift+Marker Reaper 40157
+	Option+Marker Reaper 40174
+
+	Nudge Reaper 40173
+	Cycle CycleTimeline
+	Click Reaper 40364
+
+	MasterFader MasterTrackVolume
+ZoneEnd
+
+
+Zone Channel|1-16
+	TrackNavigator
+	DisplayUpper|  TrackNameDisplay
+	DisplayLower|  TrackPanDisplay
+	TrackTouch+DisplayLower|  TrackVolumeDisplay
+	Rotary| TrackPan 0
+	RecordArm|  TrackRecordArm
+	Solo|  TrackSolo
+	Mute| TrackMute
+	Select|  TrackUniqueSelect
+	Shift+Select|  TrackRangeSelect
+	Control+Select|  TrackSelect
+	Shift+Control+Select| TogglePin
+	Option+Select| TrackFolderDive
+	Fader|  TrackVolume
+	TrackTouch+Fader|  TrackVolume
+	FaderTouch|  TrackTouch
+ZoneEnd
+
+Zone Send|1-8
+	DisplayUpper|  TrackSendNameDisplay
+	TrackTouch+DisplayUpper|  TrackSendVolumeDisplay
+	Mute| TrackSendMute
+	Fader|  TrackSendVolume
+	TrackTouch+Fader|  TrackSendVolume
+	FaderTouch|  TrackTouch
+ZoneEnd
+
+Zone FXMenu|1-4
+	SelectedTrackNavigator
+	DisplayUpper|  FXNameDisplay |
+	RotaryPush| GoFXSlot |
+ZoneEnd

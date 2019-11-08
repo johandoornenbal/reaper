@@ -1,0 +1,20 @@
+[MIDI event list toolbar]
+icon_1=toolbar_revert.png
+icon_8=toolbar_midiAddEvent_l.png
+icon_10=toolbar_midiDelEvent_r.png
+icon_12=toolbar_midiListFilter.png
+item_0=1005 Save (.mid source only)
+item_1=1013 Revert (.mid source only)
+item_2=-1
+item_3=40042 Mode: Piano Roll
+item_4=40043 Mode: Drum Map
+item_5=40954 Mode: Notation
+item_6=40056 Mode: Event List
+item_7=-1
+item_8=1000 Add
+item_9=-1
+item_10=1002 Delete
+item_11=-1
+item_12=40471 Filter
+item_13=-1
+

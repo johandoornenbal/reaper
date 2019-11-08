@@ -1,0 +1,21 @@
+[Main toolbar]
+icon_0=toolbar_mainAddTrack.png
+icon_3=toolbar_mainEnvShow.png
+icon_5=toolbar_mainFXBypass.png
+icon_7=toolbar_mainMasterShow.png
+icon_10=toolbar_mainTrackman.png
+icon_12=toolbar_mainMarqReg.png
+item_0=40001 Track: Insert new track
+item_1=-1
+item_2=-1
+item_3=40926 Envelope: Toggle show all active envelopes for all tracks
+item_4=-1
+item_5=40344 Track: Toggle FX bypass on all tracks
+item_6=-1
+item_7=40075 View: Toggle master track visible
+item_8=-1
+item_9=-1
+item_10=40906 View: Show track manager window
+item_11=-1
+item_12=40326 View: Show region/marker manager window
+

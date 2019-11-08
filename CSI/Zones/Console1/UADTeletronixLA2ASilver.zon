@@ -1,0 +1,10 @@
+Zone "VST: UAD Teletronix LA-2A Silver (Universal Audio, Inc.)" "LA2ASlv"
+SelectedTrackNavigator
+Threshold FXParam "0"
+Character FXParam "1"
+Drive FXParam "4"
+Attack FXParam "3"
+Ratio FXParam "2"
+Invert+Compressor FXParam "6"
+ZoneEnd
+
