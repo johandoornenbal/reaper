@@ -1,6 +1,5 @@
 Zone Home
 	RotaryPushG11 MapSelectedTrackFXToWidgets
-	RotaryG11 NoAction
 	IncludedZones
         Rotary|1-8
     IncludedZonesEnd
@@ -11,5 +10,6 @@ Zone Rotary|1-8
     RotaryA| NoAction
     RotaryB| NoAction
     RotaryC| NoAction
+    RotaryG1| NoAction
 Zone End
 
