@@ -1,0 +1,28 @@
+Zone "VST: ReaEQ (Cockos)" ReaEQ
+SelectedTrackNavigator
+RotaryA1 FXParam 0 Freq
+RotaryC1 FXParam 1 Gain
+RotaryB1 FXParam 2 Q
+RotaryA2 FXParam 3 Freq
+RotaryC2 FXParam 4 Gain
+RotaryB2 FXParam 5 Q
+RotaryA3 FXParam 6 Freq
+RotaryC3 FXParam 7 Gain
+RotaryB3 FXParam 8 Q
+RotaryA4 FXParam 9 Freq
+RotaryC4 FXParam 10 Gain
+RotaryB4 FXParam 11 Q
+RotaryA5 FXParam 12 Freq
+RotaryC5 FXParam 13 Gain
+RotaryB5 FXParam 14 Q
+RotaryA6 FXParam 15 Freq
+RotaryC6 FXParam 16 Gain
+RotaryB6 FXParam 17 Q
+RotaryA7 FXParam 18 Freq
+RotaryC7 FXParam 19 Gain
+RotaryB7 FXParam 20 Q
+RotaryA8 FXParam 21 Freq
+RotaryC8 FXParam 22 Gain
+RotaryB8 FXParam 23 Q
+RotaryPushG11 GoZone Home
+ZoneEnd

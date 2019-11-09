@@ -1,0 +1,199 @@
+Widget RotaryG11
+    Fader7Bit b0 30 7f
+    FB_Fader7Bit b0 30 7f
+WidgetEnd
+
+Widget RotaryG12
+    Fader7Bit b0 02 7f
+    FB_Fader7Bit b0 02 7f
+WidgetEnd
+
+Widget RotaryG13
+    Fader7Bit b0 03 7f
+    FB_Fader7Bit b0 03 7f
+WidgetEnd
+
+Widget RotaryG14
+    Fader7Bit b0 04 7f
+    FB_Fader7Bit b0 04 7f
+WidgetEnd
+
+Widget RotaryG15
+    Fader7Bit b0 05 7f
+    FB_Fader7Bit b0 05 7f
+WidgetEnd
+
+Widget RotaryG16
+    Fader7Bit b0 06 7f
+    FB_Fader7Bit b0 06 7f
+WidgetEnd
+
+Widget RotaryG17
+    Fader7Bit b0 07 7f
+    FB_Fader7Bit b0 07 7f
+WidgetEnd
+
+Widget RotaryG18
+    Fader7Bit b0 08 7f
+    FB_Fader7Bit b0 08 7f
+WidgetEnd
+
+Widget RotaryPushG11
+    Press b0 21 7f b0 21 00
+WidgetEnd
+
+Widget RotaryPushG12
+    Press b0 22 00
+WidgetEnd
+
+Widget RotaryPushG13
+    Press b0 23 00
+WidgetEnd
+
+Widget RotaryPushG14
+    Press b0 24 00
+WidgetEnd
+
+Widget RotaryPushG15
+    Press b0 25 00
+WidgetEnd
+
+Widget RotaryPushG16
+    Press b0 26 00
+WidgetEnd
+
+Widget RotaryPushG17
+    Press b0 27 00
+WidgetEnd
+
+Widget RotaryPushG18
+    Press b0 28 00
+WidgetEnd
+
+Widget UpperButton1
+    Press b0 41 7f b0 41 00
+    FB_Press b0 41 7f b0 41 00
+WidgetEnd
+
+Widget RotaryA1
+    Fader7Bit b0 51 7f
+    FB_Fader7Bit b0 51 7f
+WidgetEnd
+
+Widget RotaryA2
+    Fader7Bit b0 52 7f
+    FB_Fader7Bit b0 52 7f
+WidgetEnd
+
+Widget RotaryA3
+    Fader7Bit b0 53 7f
+    FB_Fader7Bit b0 53 7f
+WidgetEnd
+
+Widget RotaryA4
+    Fader7Bit b0 54 7f
+    FB_Fader7Bit b0 54 7f
+WidgetEnd
+
+Widget RotaryA5
+    Fader7Bit b0 55 7f
+    FB_Fader7Bit b0 55 7f
+WidgetEnd
+
+Widget RotaryA6
+    Fader7Bit b0 56 7f
+    FB_Fader7Bit b0 56 7f
+WidgetEnd
+
+Widget RotaryA7
+    Fader7Bit b0 57 7f
+    FB_Fader7Bit b0 57 7f
+WidgetEnd
+
+Widget RotaryA8
+    Fader7Bit b0 58 7f
+    FB_Fader7Bit b0 58 7f
+WidgetEnd
+
+Widget RotaryB1
+    Fader7Bit b0 59 7f
+    FB_Fader7Bit b0 59 7f
+WidgetEnd
+
+Widget RotaryB2
+    Fader7Bit b0 5a 7f
+    FB_Fader7Bit b0 5a 7f
+WidgetEnd
+
+Widget RotaryB3
+    Fader7Bit b0 5b 7f
+    FB_Fader7Bit b0 5b 7f
+WidgetEnd
+
+Widget RotaryB4
+    Fader7Bit b0 5c 7f
+    FB_Fader7Bit b0 5c 7f
+WidgetEnd
+
+Widget RotaryB5
+    Fader7Bit b0 5d 7f
+    FB_Fader7Bit b0 5d 7f
+WidgetEnd
+
+Widget RotaryB6
+    Fader7Bit b0 5e 7f
+    FB_Fader7Bit b0 5e 7f
+WidgetEnd
+
+Widget RotaryB7
+    Fader7Bit b0 5f 7f
+    FB_Fader7Bit b0 5f 7f
+WidgetEnd
+
+Widget RotaryB8
+    Fader7Bit b0 60 7f
+    FB_Fader7Bit b0 60 7f
+WidgetEnd
+
+Widget RotaryC1
+    Fader7Bit e0 00 7f
+    FB_Fader7Bit e0 00 7f
+WidgetEnd
+
+Widget RotaryC2
+    Fader7Bit b0 62 7f
+    FB_Fader7Bit b0 62 7f
+WidgetEnd
+
+Widget RotaryC3
+    Fader7Bit b0 63 7f
+    FB_Fader7Bit b0 63 7f
+WidgetEnd
+
+Widget RotaryC4
+    Fader7Bit b0 64 7f
+    FB_Fader7Bit b0 64 7f
+WidgetEnd
+
+Widget RotaryC5
+    Fader7Bit b0 65 7f
+    FB_Fader7Bit b0 65 7f
+WidgetEnd
+
+Widget RotaryC6
+    Fader7Bit b0 66 7f
+    FB_Fader7Bit b0 66 7f
+WidgetEnd
+
+Widget RotaryC7
+    Fader7Bit b0 67 7f
+    FB_Fader7Bit b0 67 7f
+WidgetEnd
+
+Widget RotaryC8
+    Fader7Bit b0 68 7f
+    FB_Fader7Bit b0 68 7f
+WidgetEnd
+
+
+

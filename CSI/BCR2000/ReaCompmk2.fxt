@@ -1,0 +1,18 @@
+VST: ReaComp (Cockos)
+/
+RotaryA1 "Thresh"
+RotaryA2 "Pre-comp"
+RotaryA3 "Attack"
+RotaryA4 "Release"
+RotaryA5 "Ratio"
+RotaryA6 "Knee"
+RotaryA7 "Lowpass"
+RotaryA8 "Hipass"
+RotaryB1 "RMS size"
+RotaryB2 "Wet"
+RotaryB3 "Dry"
+/RotaryB5
+/RotaryB6
+/RotaryB4
+/RotaryB7
+/RotaryB8

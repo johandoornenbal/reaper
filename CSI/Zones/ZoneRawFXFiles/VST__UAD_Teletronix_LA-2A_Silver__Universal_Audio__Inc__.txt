@@ -1,9 +1,0 @@
-VST: UAD Teletronix LA-2A Silver (Universal Audio, Inc.)
-Peak Reduct
-Gain
-Comp/Limit
-Emphasis
-Meter
-Power
-Bypass
-Wet
